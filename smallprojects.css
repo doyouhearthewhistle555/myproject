@@ -18,6 +18,8 @@ body{
   cursor: pointer;
   transition: 0.5s;
   font-size: 2.5em;
+  color: purple;
+  background-color: pink;
 }
 #button1:hover{
   color: red;
@@ -26,4 +28,35 @@ body{
 #button1:active{
   color: red;
   background-color: blue;
+}
+#h2{
+  text-align: center;
+}
+.container{
+  text-align: center;
+}
+#input1{
+  text-align: center;
+  font-size: 1.5em;
+}
+#button2{
+  font-size: 2em;
+}
+#label1{
+  text-align: center;
+  display: block;
+}
+#h3{
+  text-align: center;
+}
+.container2{
+  text-align: center;
+}
+#label2{
+  display: block;
+  text-align: center;
+  font-size: 5em;
+}
+.buttons{
+  font-size: 2.5em;
 }
